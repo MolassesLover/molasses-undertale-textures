@@ -1,0 +1,12 @@
+# Media
+*.gif
+*.kra~
+
+# Binaries
+[Bb]in/*
+*.dll
+*.exe
+*.ogg
+*.patch
+*.win
+
